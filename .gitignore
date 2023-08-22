@@ -29,3 +29,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Exercism ###
+.exercism
+.gradle
+gradle
+*.gradle
+gradlew
+gradlew.bat
+HELP.md
+HINTS.md
+README.md
+build
+test
